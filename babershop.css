@@ -1,0 +1,24 @@
+.imgbtq1{
+    border-color: black;
+    border-width: 10px;
+    border-style:solid;
+    border-color: gray;
+    display: inline-block;
+    margin: 50px;
+    padding:0px;
+    color: azure;
+    
+}
+p{text-align: center;
+text-transform: capitalize;
+text-decoration: solid;
+word-spacing: 5px;
+}
+.divttle{text-align: center;background-image: url(body1.jpg);}
+.prdts{background-color: rgb(77, 90, 90);}
+footer{background-color: rgb(83, 179, 147)}
+h1{text-align: center;background-color: blueviolet;}
+body{background-color: rgb(77, 90, 90);}
+h2{text-align: center;}
+.logofooter1{position: relative;bottom:130px;left: 300px;}
+.logofooter2{position: relative;bottom:230px;left: 930px;}
